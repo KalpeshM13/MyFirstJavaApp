@@ -11,7 +11,7 @@
     <Button
         android:id="@+id/clickMe"
         android:text="Click Me!"
-        android:textSize="24sp"
+        android:textSize="22sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
