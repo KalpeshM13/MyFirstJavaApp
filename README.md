@@ -5,7 +5,7 @@
   - Create a new Android App in Java language
   - In `activity_main.xml` create a `textView` element
 
-## *Task 2: Enhance the app with button interaction. *
+## *Task 2: Enhance the app with button interaction.*
   - In `activity_main.xml` create a `Button` element, give it an Id for reference
   - In `MainActivity.java` get reference to button using its Id.
   - Set an  `OnClickListener` to button, to respond to clicks
